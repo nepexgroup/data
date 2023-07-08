@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Robin N' Looza",
+        "albums": [
+            {
+                "id": 1,
+                "name": "Bhool ma bhulyo",
+                "songs": [
+                    "pahilo-naam",
+                    "bhool-ma-bhulyo"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Adhunik Ko Aaganma",
+                "songs": [
+                    "swatantra-jeevan",
+                    "bhool-ma-bhulyo"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Nepal",
+                "songs": [
+                    "nepal",
+                    "ma-maunta-ma",
+                    "dum-maro-dum",
+                    "chiso-chiso"
+                ]
+            }
+        ]
+    }
+]
