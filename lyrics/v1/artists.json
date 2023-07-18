@@ -2,5 +2,17 @@
     {
         "id": 1,
         "name": "John Lennon"
+    },
+    {
+        "id": 2,
+        "name": "Robin N' Looza"
+    },
+    {
+        "id": 3,
+        "name": "Pink Floyd"
+    },
+    {
+        "id": 4,
+        "name": "Led Zepplin"
     }
 ]
