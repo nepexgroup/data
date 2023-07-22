@@ -1,22 +1,22 @@
 {title: Bhool Ma Bhulyo}
 {artist: Robin N' Looza}
 
-[C5]Bheten maile shiva ji, [E5]/[F5]/[E5]Pashupati janda
-[C5]Bhanyo bhasan din aako haina, [E5]/[F5]/[E5]Ke bhayo deshma
+[C5]Bheten maile shiva ji, [E5/F5/E5]Pashupati janda
+[C5]Bhanyo bhasan din aako haina, [E5/F5/E5]Ke bhayo deshma
 [G]Laaj le maile maafa mange, [F]ke garna sodhen
 [C5]Sodhyo malai ulle ulta, [G5]Nepali chha ki chhaina
-[C5]Dulen hami deaurali, [E5]/[F5]/[E5]Sita ko paila ma
-[C5]Bhete shiva ko chela haru, [E5]/[F5]/[E5]Pipal boat ke phed ma
+[C5]Dulen hami deaurali, [E5/F5/E5]Sita ko paila ma
+[C5]Bhete shiva ko chela haru, [E5/F5/E5]Pipal boat ke phed ma
 [G]Aagi pachi kwireni, [F]Khojdai aako dharma
 [C5]Lagyo hamro baba ji lai United States ma
 [A5C5]Shiva le patyau na sakena, [A5 C5]Sodhyo ke bhayo mero gyaan
 [A5C5]Jatilta ko jeevan mero, [F5]Bhool ma bhul yo hamro maan
-[C5]Bheten maile siddhartha, [E5]/[F5]/[E5]Lumbini janda
+[C5]Bheten maile siddhartha, [E5/F5/E5]Lumbini janda
 
-[C5]Bhanyo bhasan din aako haina, [E5]/[F5]/[E5]Ke bhayo deshma
+[C5]Bhanyo bhasan din aako haina, [E5/F5/E5]Ke bhayo deshma
 [G]Mile bhane hami kuyeyo jhukyo hamro dharma
 [C5]Aajkal hami puja garchha aafo lagi matra
 [A5C5]Buddha le patyau na sakena, [A5 C5]Sodhyo ke bhayo mero gyaan
 [A5C5]Jatilta ko jeevan mero, [F5]Bhool ma bhul yo hamro maan
 
-Solo: [C5]/[G5]/[F5]
+Solo: [C5/G5/F5]
